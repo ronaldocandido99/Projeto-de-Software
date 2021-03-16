@@ -18,4 +18,4 @@ empregados. A taxa sindical é deduzida do salário. Além do mais, o sindicato 
 ocasionalmente cobrar taxas de serviços adicionais a um empregado. Tais taxas de serviço são submetidas pelo sindicato mensalmente e devem ser deduzidas do próximo contracheque do empregado. A identificação do empregado no sindicato não é a mesma da identificação no sistema de folha de pagamento.
 
 • A folha de pagamento é rodada todo dia e deve pagar os empregados cujos salários vencem naquele dia. O sistema receberá a data até a qual o pagamento deve ser feito e calculará    o pagamento para cada empregado desde a última vez em que este foi pago.
-* Item1 *Item 2
+* Item1 *item 2

@@ -7,10 +7,10 @@
 
 • Alguns empregados assalariados são comissionados e portanto recebem uma comissão, um percentual das vendas que realizam. Eles submetem resultados de vendas que informam a data e valor da venda. O percentual de comissão varia de empregado para empregado. Eles são pagos a cada 2 sextas-feiras; neste momento, devem receber o equivalente de 2 semanas de salário fixo mais as comissões do período.
 
-  o Empregados podem escolher o método de pagamento.
-  o Podem receber um cheque pelos correios
-  o Podem receber um cheque em mãos
-  o Podem pedir depósito em conta bancária
+  o *Empregados podem escolher o método de pagamento.
+  o *Podem receber um cheque pelos correios
+  o *Podem receber um cheque em mãos
+  o *Podem pedir depósito em conta bancária
 
 • Alguns empregados pertencem ao sindicato (para simplificar, só há um possível sindicato).
 O sindicato cobra uma taxa mensal do empregado e essa taxa pode variar entre
